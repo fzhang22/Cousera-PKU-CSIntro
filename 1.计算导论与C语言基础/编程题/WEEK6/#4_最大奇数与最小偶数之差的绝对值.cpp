@@ -16,7 +16,6 @@ using namespace std;
 输出
 输出为一行，输出最大的奇数与最小的偶数之差的绝对值
 */
-
 int main() {
 
     int res;
